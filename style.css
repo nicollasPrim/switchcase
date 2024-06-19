@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(114, 37, 185);
+    color: white;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+label{
+    font-size: 18px;
+}
+
+input, button{
+    background-color: white;
+    color: violet;
+    height: 36px;
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+}
